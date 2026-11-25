@@ -1,4 +1,4 @@
-Welcome to Web Engineering Lab.
+Welcome to Git Collaboration Project.
 
-Student A is working on this project.
+Student A changed this line.
 
