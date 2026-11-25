@@ -1,6 +1,5 @@
 Welcome to GitHub Collaboration Lab.
 
-Student B is working on this project.
+Student A and Student B worked on this project.
 
-Student A is working on this project.
-
+Student A changed this line.
